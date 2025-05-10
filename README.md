@@ -24,4 +24,5 @@ Here you can find some projects I did during the course
 |:---:|:---|
 | [__OC__](OC/) | computer organization |
 | [__ESof__](ESof/) | software engineering |
+| [__SDis__](SDis/) | distributed systems |
 
