@@ -1,0 +1,21 @@
+# Build binaries
+file-receiver
+file-sender
+
+# Object files
+*.o
+*.o.d
+
+# Shared libraries
+*.so
+*.so.d
+
+# IDE / editor folders
+.vscode/
+
+# Text files
+*.txt
+*.log
+
+# EPS files
+*.eps

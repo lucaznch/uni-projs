@@ -1,0 +1,11 @@
+*.o
+*.d
+
+*.dot
+*.pdf
+*.log
+
+dv-simulator
+dvrpp-simulator
+pv-simulator
+ls-simulator
