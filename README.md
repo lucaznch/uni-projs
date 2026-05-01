@@ -7,26 +7,25 @@ Here you can find *some* projects I did during the degree.
 ### 1st year
 | abbreviation | meaning |
 |:---:|:---|
-| [__LP__](LP/) | logic for programming |
-| [__IAED__](IAED/) | introduction to algorithms and data structures |
 | [__IAC__](IAC/) | introduction to computer architecture |
+| [__IAED__](IAED/) | introduction to algorithms and data structures |
+| [__LP__](LP/) | logic for programming |
 
 ### 2nd year
 | abbreviation | meaning |
 |:---:|:---|
-| [__PO__](PO/) | object-oriented programming |
 | [__ASA__](ASA/) | analysis and synthesis of algorithms |
-| [__SO__](SO/) | operating systems |
-| [__IPM__](IPM/) | human–computer interaction |
-| [__IArt__](IArt/) | artificial intelligence |
 | [__BD__](BD/) | databases |
+| [__IArt__](IArt/) | artificial intelligence |
+| [__IPM__](IPM/) | human–computer interaction |
+| [__PO__](PO/) | object-oriented programming |
+| [__SO__](SO/) | operating systems |
 
 ### 3rd year
 | abbreviation | meaning |
 |:---:|:---|
-| [__OC__](OC/) | computer organization |
+| [__CGra__](CGra/) | computer graphics |
+| [__Com__](Com/) | compilers |
 | [__ESof__](ESof/) | software engineering |
 | [__SDis__](SDis/) | distributed systems |
-| [__Com__](Com/) | compilers |
-| [__CGra__](CGra/) | computer graphics |
-
+| [__OC__](OC/) | computer organization |
